@@ -143,7 +143,7 @@
     }
 }
 
-@media screen and (max-width:430px){
+@media screen and (max-width:455px){
     .grid-productos{
         grid-template-columns: 1fr 1fr;
     }
