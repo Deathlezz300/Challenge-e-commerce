@@ -100,6 +100,8 @@
 
 .imagen-producto{
     width: 100%;
+    max-height: 190px;
+    min-height: 150px;
 }
 
 .precio-producto{
@@ -143,7 +145,7 @@
     }
 }
 
-@media screen and (max-width:465px){
+@media screen and (max-width:455px){
     .grid-productos{
         grid-template-columns: 1fr 1fr;
     }
