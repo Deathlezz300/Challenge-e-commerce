@@ -52,6 +52,7 @@
 
 .imagen-producto2{
     width: 45%;
+    max-height: 500px;
 }
     
     .precio-producto{
