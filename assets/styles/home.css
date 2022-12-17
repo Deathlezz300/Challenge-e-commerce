@@ -10,7 +10,7 @@
     display: flex;
     justify-content: center;
     height: auto;
-    background: url('/assets/images/banner.jpg');
+    background: url('../assets/images/banner.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
