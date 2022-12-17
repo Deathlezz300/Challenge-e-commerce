@@ -66,7 +66,7 @@ font-weight: 700;
     }
 }
 
-@media screen and (max-width:455px){
+@media screen and (max-width:460px){
     .grid-productos{
         grid-template-columns: 1fr 1fr;
     }
