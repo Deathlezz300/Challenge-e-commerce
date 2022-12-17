@@ -9,7 +9,7 @@ const crearProducto=(url,nombre,categoria,precio,id)=>{
     <img src="${url}" class="imagen-producto" alt="">
     <h3 class="nombre-producto">${nombre}</h3>
     <p class="precio-producto">$${precio}</p>
-    <a href="../screens/detalle_producto.html?id=${id}" class="ver-producto">Ver producto</a>
+    <a href="./screens/detalle_producto.html?id=${id}" class="ver-producto">Ver producto</a>
 </div>`
     producto.innerHTML=nuevo;
     lugar.appendChild(producto);
